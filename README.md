@@ -1,4 +1,4 @@
-# Diwali-Revenue-Examination-
+# DIWALI REVENUE EXAMINATION 
 
 
 Welcome to the Python_Diwali_Sales_Analysis project! This project is designed to analyze sales data during the Diwali festival using Python. Diwali is a major festival in India, and businesses often experience increased sales during this time. This analysis aims to provide insights into sales trends, patterns, and performance during the Diwali period.
